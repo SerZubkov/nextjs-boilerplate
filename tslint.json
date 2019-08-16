@@ -1,0 +1,10 @@
+{
+  "defaultSeverity": "error",
+  "rules": {
+    "restrict-plus-operands": true,
+    "promise-function-async": true,
+    "await-promise": true,
+    "no-for-in-array": true,
+    "no-inferred-empty-object-type": true
+  }
+}

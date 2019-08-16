@@ -1,0 +1,15 @@
+node_modules/
+coverage
+static/sw.js
+.next
+out
+*-error.log
+package-lock.json
+
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
