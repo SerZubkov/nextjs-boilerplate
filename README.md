@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/SerZubkov/nextjs-boilerplate.svg?branch=master)](https://travis-ci.org/SerZubkov/nextjs-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/SerZubkov/nextjs-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/SerZubkov/nextjs-boilerplate?branch=master)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Dependency Status](https://david-dm.org//SerZubkov/nextjs-boilerplate.svg)](https://david-dm.org/SerZubkov/nextjs-boilerplate)
+[![Dependency Status](https://david-dm.org/SerZubkov/nextjs-boilerplate.svg)](https://david-dm.org/SerZubkov/nextjs-boilerplate)
 [![devDependency Status](https://david-dm.org/SerZubkov/nextjs-boilerplate/dev-status.svg)](https://david-dm.org/SerZubkov/nextjs-boilerplate?type=dev)
 [![npm version](https://badge.fury.io/js/e2e4.svg)](https://badge.fury.io/js/e2e4)
 
