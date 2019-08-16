@@ -5,7 +5,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Dependency Status](https://david-dm.org/SerZubkov/nextjs-boilerplate.svg)](https://david-dm.org/SerZubkov/nextjs-boilerplate)
 [![devDependency Status](https://david-dm.org/SerZubkov/nextjs-boilerplate/dev-status.svg)](https://david-dm.org/SerZubkov/nextjs-boilerplate?type=dev)
-[![npm version](https://badge.fury.io/js/e2e4.svg)](https://badge.fury.io/js/e2e4)
 
 Set of base classes and utilities to build unobtrusive list models. 
 This is abstract codebase which can be used to implement bridges to end-user frameworks (such as [Angular bridge](https://github.com/eastbanctechru/right-angled)).
