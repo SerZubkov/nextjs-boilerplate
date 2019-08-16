@@ -51,6 +51,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "coveralls": "^3.0.6",
+    "cz-conventional-changelog": "^3.0.2",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
     "eslint": "^6.1.0",
@@ -78,5 +79,10 @@
     "typescript-plugin-css-modules": "^1.2.1",
     "typescript-styled-plugin": "^0.14.0",
     "typescript-tslint-plugin": "^0.5.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
