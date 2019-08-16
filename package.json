@@ -30,6 +30,7 @@
     "tslint": "tslint --format msbuild --project tsconfig.json --config tslint.json --fix 'pages/**/*{.ts,.tsx}' 'components/**/*{.ts,.tsx}'",
     "tscheck": "tsc --project tsconfig.json",
     "test": "jest",
+    "precommit": "yarn ci",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls"
