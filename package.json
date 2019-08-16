@@ -25,7 +25,7 @@
     "export": "npm run build:server && npm run export:server",
     "start:static": "serve",
     "now-build": "next build",
-    "lint": "yarn eslint && yarn tslint && yarn tscheck",
+    "lint": "yarn eslint && yarn tslint && yarn tscheck && test:coverage",
     "eslint": "eslint --ext .ts,.tsx --quiet --cache --format unix --fix pages/ components/",
     "tslint": "tslint --format msbuild --project tsconfig.json --config tslint.json --fix 'pages/**/*{.ts,.tsx}' 'components/**/*{.ts,.tsx}'",
     "tscheck": "tsc --project tsconfig.json",
